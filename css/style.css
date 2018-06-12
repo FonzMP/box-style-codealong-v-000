@@ -297,6 +297,7 @@ header {
 
 #navbar nav a {
   text-decoration: none;
+  display: inline-block;
 }
 
 /*////////// LOGO //////////*/
