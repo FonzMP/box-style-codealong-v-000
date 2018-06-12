@@ -281,7 +281,7 @@ header {
 
 /*////////// NAVBAR //////////*/
 
-.navbar {
+#navbar {
   width: 100%;
   position: fixed;
   top: 0;
